@@ -1,16 +1,21 @@
-### Hi there 👋
+<p align="center">
+  <img src="banner.png">
+</p>
 
-<!--
-**NekoLunaLP/NekoLunaLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Allu ich bin NekoLunaLP :3</h1>
+<h1 align="center">Willkommen auf mein Github Profil~ UwU</h1>
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/NekoLunaLP">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoLunaLP&layout=compact&langs_count=7&theme=blueberry"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NekoLunaLP&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <strong><a href="#">Official Website (Comming Soon)</a></strong> |
+  <strong><a href="#">Twitter (Comming Soon)</a></strong> |
+  <strong><a href="#">Discord (Comming Soon)</a></strong> |
+  <strong><a href="#">Twitch (Comming Soon)</a></strong>
+</p>
+
+<p align="center">❤ Derzeit arbeite ich an einen Discord Bot ❤</p>
