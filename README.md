@@ -5,7 +5,7 @@
 <h1 align="center">Allu ich bin NekoLunaLP :3</h1>
 <h1 align="center">Willkommen auf mein Github Profil~ UwU</h1>
 
-<div>
+<div align="center">
   <a href="https://github.com/NekoLunaLP">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoLunaLP&layout=compact&langs_count=7&theme=blueberry"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NekoLunaLP&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
