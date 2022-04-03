@@ -6,6 +6,7 @@
 <h1 align="center">Willkommen auf mein Github Profil~ UwU</h1>
 
 <div align="center">
+  <h2>Ein paar Stats</h2>
   <a href="https://github.com/NekoLunaLP">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoLunaLP&layout=compact&langs_count=7&theme=react&border=ff9c19&hide_border=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NekoLunaLP&show_icons=true&theme=react&include_all_commits=true&count_private=true&border=ff9c19&hide_border=true"/>
