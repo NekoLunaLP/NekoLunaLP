@@ -9,7 +9,7 @@
   <a href="https://github.com/NekoLunaLP">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoLunaLP&layout=compact&langs_count=7&theme=blueberry"/>
   <img src="https://github-readme-stats.vercel.app/api?username=NekoLunaLP&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Expectatives&theme=react&border=ff9c19&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NekoLunaLP&theme=react&border=ff9c19&hide_border=true"/>
 </div>
 
 <p align="center">
