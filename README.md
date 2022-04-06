@@ -9,7 +9,7 @@
 </p>
 
 ### GitHub Stats
-[![Expectatives's GitHub stats](https://github-readme-stats.vercel.app/api?username=NekoLunaLP&show_icons=true&theme=react&border_color=ff9c19&hide_border=true)](https://github.com/NekoLunaLP) 
+[![NekoLunaLP's GitHub stats](https://github-readme-stats.vercel.app/api?username=NekoLunaLP&show_icons=true&theme=react&border_color=ff9c19&hide_border=true)](https://github.com/NekoLunaLP) 
 [![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=NekoLunaLP&theme=react&border=ff9c19&hide_border=true)](https://github.com/NekoLunaLP)
 
 ### Some repositories
